@@ -1,9 +1,7 @@
 ### Rafael Carlos - Desenvolvedor Front-End
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_carlosoficial/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carlos-b09a8b2b7/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAPdH9jcMeCeDbKFTgRmlSQ)
-### 📧rafelcarlosoficial@hotmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carlos-b09a8b2b7/https://www.linkedin.com/in/rafael-carlos-99675633a/)
+### 📧rafaelcarlosoficial10@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcarlosoficial&show_icons=true&theme=tokyonight)
 
