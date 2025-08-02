@@ -33,18 +33,21 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
 
 
 ### Contato 
-<div style="display: flex; gap: 20px; margin-top: 10px; align-items: center;">
-  <a href="https://www.linkedin.com/in/rafael-carlos-b09a8b2b7/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 5px;">
+<div style="display: flex; flex-direction: column; gap: 20px; margin-top: 10px; align-items: flex-start;">
+  <a href="https://www.linkedin.com/in/rafael-carlos-b09a8b2b7/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: black;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
     LinkedIn
   </a>
-  <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 5px;">
+
+  <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: black;">
     WhatsApp: 55 11 91467-2713
   </a>
-  <a href="mailto:rafaelcarlosoficial10@gmail.com" style="display: flex; align-items: center; gap: 5px;">
-    📫 rafaelcarlosoficial@gmail.com
+
+  <a href="mailto:rafaelcarlosoficial10@gmail.com" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: black;">
+    📫 rafaelcarlosoficial10@gmail.com
   </a>
 </div>
+
  
 ---
 <Div>
