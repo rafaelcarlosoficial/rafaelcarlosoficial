@@ -9,6 +9,14 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+   <img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+  alt="CSS3 icon"
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+   
 <img 
   align="left"
   width="50px"
@@ -22,14 +30,6 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
-<img 
-  align="left"
-  width="50px"
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-
 <img 
   align="left"
   width="50px"
@@ -44,23 +44,43 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
+</div>
 
+### Aprendendo: 
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+
+   
 </div>
 
 
 
 
-<div style="display: inline_block"><br/>
-    <img aling='center' alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling='center' alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-     <img aling='center' alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img aling='center' alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img aling='center' alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-    <img aling='center' alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img aling='center' alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=whitee">
-     <img aling='center' alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <br/>
-</div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carlos-b09a8b2b7/https://www.linkedin.com/in/rafael-carlos-99675633a/)
 ### 📧rafaelcarlosoficial10@gmail.com
 
