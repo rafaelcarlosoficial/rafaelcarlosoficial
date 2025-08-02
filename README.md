@@ -39,12 +39,10 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
     LinkedIn
   </a>
   <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="30" alt="WhatsApp" />
-    WhatsApp
+    WhatsApp: 55 11 91467-2713
   </a>
   <a href="mailto:rafaelcarlosoficial10@gmail.com" style="display: flex; align-items: center; gap: 5px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email" />
-    Email
+    📫 rafaelcarlosoficial@gmail.com
   </a>
 </div>
  
