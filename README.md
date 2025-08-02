@@ -18,6 +18,10 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" width="50" alt="Illustrator" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" alt="Canva" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+          
+          
 </div>
 
 ### Aprendendo (agosto-15 september)  
@@ -33,13 +37,13 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
 
 
 ### Contato 
-<div style="display: flex; flex-direction: column; gap: 20px; margin-top: 10px; align-items: flex-start;">
+<div style="display: flex; flex-direction: column; gap: 20px; margin: 10px 15px; align-items: flex-start;">
   <a href="https://www.linkedin.com/in/rafael-carlos-b09a8b2b7/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: black;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
     LinkedIn
   </a>
 
-  <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: black;">
+  <a href="https://wa.me/5511914672713" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 5px; text-decoration: none; color: black;">
     WhatsApp: 55 11 91467-2713
   </a>
 
