@@ -129,9 +129,11 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
 
 
 
-
+<div>
+   ###Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carlos-b09a8b2b7/https://www.linkedin.com/in/rafael-carlos-99675633a/)
 ### 📧rafaelcarlosoficial10@gmail.com
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcarlosoficial&show_icons=true&theme=tokyonight)
 
