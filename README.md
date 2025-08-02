@@ -135,10 +135,9 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcarlosoficial&show_icons=true&theme=tokyonight)
 
-### Habilidades
 
 
 
 
-### Iniciei os estudos de programação em março de 2023. Sigo me aprimorando e desenvolvendo minhas habilidades.
+
 
