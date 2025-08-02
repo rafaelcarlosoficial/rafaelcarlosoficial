@@ -31,14 +31,24 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
 
 ---
 
-### Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-carlos-b09a8b2b7/)  
-📧 rafaelcarlosoficial10@gmail.com  
 
+### Contato 
+<div style="display: flex; gap: 20px; margin-top: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/rafael-carlos-b09a8b2b7/" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
+    LinkedIn
+  </a>
+  <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; gap: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="30" alt="WhatsApp" />
+    WhatsApp
+  </a>
+  <a href="mailto:rafaelcarlosoficial10@gmail.com" style="display: flex; align-items: center; gap: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email" />
+    Email
+  </a>
+</div>
+ 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcarlosoficial&show_icons=true&theme=tokyonight)
-
 
 
 
