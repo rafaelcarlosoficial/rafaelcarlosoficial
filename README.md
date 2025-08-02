@@ -43,6 +43,47 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
 
 </div>
 
