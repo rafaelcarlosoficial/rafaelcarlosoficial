@@ -46,7 +46,7 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
 
 </div>
 
-### Aprendendo: 
+### Aprendendo (agosto-15september): 
 <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
   align="left" 
@@ -56,6 +56,13 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
 
 <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+  align="left" 
+  width="50px" 
+  style="padding-right: 10px;" 
+/>
+
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
   align="left" 
   width="50px" 
   style="padding-right: 10px;" 
@@ -74,6 +81,7 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
   width="50px" 
   style="padding-right: 10px;" 
 />
+
 
    
 </div>
