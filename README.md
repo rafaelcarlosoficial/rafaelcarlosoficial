@@ -43,6 +43,7 @@ Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolviment
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+<br>
 <img 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
   align="left" 
