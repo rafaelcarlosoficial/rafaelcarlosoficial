@@ -1,6 +1,6 @@
 ### Rafael Carlos  💻  - Desenvolvedor Full Stack  
 Me chamo Rafael Carlos, tenho 21 anos e sou de São Paulo, SP.  
-Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC. Gosto de trabalhar com tecnologia, pois ela nos permite criar soluções que facilitam o dia a dia das pessoas.
+Estudo desenvolvimento web desde 2023. Atualmente, estou cursando Desenvolvimento de Software Multiplataforma na FATEC. 
 
 ---
 
