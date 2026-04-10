@@ -1,6 +1,4 @@
 ### Rafael Carlos  💻  - Desenvolvedor Full Stack  
-Me chamo Rafael Carlos, tenho 21 anos e sou de São Paulo, SP.  
-
 ---
 
 ### Minhas Habilidades  
